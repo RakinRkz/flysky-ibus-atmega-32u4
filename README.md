@@ -1,5 +1,5 @@
 # flysky-ibus-leonardo
-Decodes FlySky IBus data directly to an Arduino Leonardo USB Game Controller.
+Decodes FlySky IBus data directly to an Arduino Leonardo or Pro Micro USB Game Controller.
 
 The Arduino sketch can be found [here](/flysky-ibus-leonardo.ino), simply build and upload it to your Leonardo.
 
