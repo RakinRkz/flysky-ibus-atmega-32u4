@@ -1,5 +1,5 @@
 /*
- Name:    flysky_ibus_leonardo.ino
+ Name:    flysky_ibus_pro micro.ino
  Created: 05/31/2018
  Updated: 06/01/2018
  Author:  wdcossey
